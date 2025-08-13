@@ -11,19 +11,6 @@ Includes:
 - ROI simulation to guide resource allocation.
 - Professional Plotly visualizations.
 
-## 📂 Structure
-project/
-├── 1_data_understanding_eda.ipynb
-├── 2_data_preprocessing.ipynb
-├── 3_model_training_evaluation.ipynb
-├── 4_campaign_simulation.ipynb
-├── app_streamlit.py
-├── models/
-├── data/
-├── outputs/
-├── requirements.txt
-└── presentation.pptx
-
 ## 🚀 Features
 - End-to-end machine learning pipeline.
 - Calibrated gradient boosting for accurate probabilities.

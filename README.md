@@ -37,6 +37,6 @@ To run this project on your local machine, follow these steps:
 3.  **Execute the Jupyter notebooks** (`1_data_understanding_eda.ipynb` through `4_campaign_simulation.ipynb`) in sequential order to generate the required model and preprocessor files (`preprocessor.pkl` and `best_model.pkl`).
 4.  **Run the Streamlit application** from your terminal:
     ```bash
-    streamlit run app.py
+    python3 -m  streamlit run app_streamlit.py
     ```
     This will launch the web application in your browser, where you can upload a new CSV file and use the predictive model for campaign planning.
